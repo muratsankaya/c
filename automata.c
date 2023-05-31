@@ -89,7 +89,7 @@ int main(int argc, char **argv){
 }
 
 
-void printGrid(short grid[5][5], short n){ //this is only for resting purposes
+void printGrid(short grid[5][5], short n){ //this is only for testing purposes
 
 	for(size_t r = 0; r < n; ++r){
 		for(size_t c = 0; c < n; ++c){
