@@ -1,0 +1,11 @@
+.marker
+*.csim*
+csim
+csim-ref
+*.tar*
+test-csim
+test-trans
+tracegen
+traces/
+*trace.*
+*.o*
